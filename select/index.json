@@ -1,0 +1,144 @@
+{
+  "version": 1,
+  "base_track": "be proud",
+  "base_artist": "乙宗 梢 (CV.花宮初奈)",
+  "createdAt": "2025-12-07T12:13:08.866990Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Something to Be Proud Of",
+      "artist": "Montgomery Gentry",
+      "has_synced": true,
+      "path": "select/01_Something_to_Be_Proud_Of_Montgomery_Gentry.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Something To Be Proud Of (Album Version)",
+      "artist": "Montgomery Gentry",
+      "has_synced": false,
+      "path": "select/02_Something_To_Be_Proud_Of_(Album_Version)_Montgomery_Gentry.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Something To Be Proud Of (Album Version)",
+      "artist": "Montgomery Gentry",
+      "has_synced": true,
+      "path": "select/03_Something_To_Be_Proud_Of_(Album_Version)_Montgomery_Gentry.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Wouldn't Mama Be Proud",
+      "artist": "Elliott Smith",
+      "has_synced": false,
+      "path": "select/04_Wouldn't_Mama_Be_Proud_Elliott_Smith.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Wouldn't Mama Be Proud",
+      "artist": "Elliott Smith",
+      "has_synced": true,
+      "path": "select/05_Wouldn't_Mama_Be_Proud_Elliott_Smith.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "I Should Be Proud",
+      "artist": "Martha Reeves and The Vandellas",
+      "has_synced": true,
+      "path": "select/06_I_Should_Be_Proud_Martha_Reeves_and_The_Vandellas.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Be Proud of Your Kids",
+      "artist": "Melody's Echo Chamber",
+      "has_synced": false,
+      "path": "select/07_Be_Proud_of_Your_Kids_Melody's_Echo_Chamber.txt"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Something to Be Proud Of",
+      "artist": "Montgomery Gentry",
+      "has_synced": true,
+      "path": "select/08_Something_to_Be_Proud_Of_Montgomery_Gentry.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Wouldn't Momma Be Proud?",
+      "artist": "Elliott Smith",
+      "has_synced": true,
+      "path": "select/09_Wouldn't_Momma_Be_Proud_Elliott_Smith.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Wouldn't It Be Nice To Be Proud",
+      "artist": "Evan and Jaron",
+      "has_synced": true,
+      "path": "select/10_Wouldn't_It_Be_Nice_To_Be_Proud_Evan_and_Jaron.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Wouldn't It Be Nice To Be Proud (Album Version)",
+      "artist": "Evan and Jaron",
+      "has_synced": true,
+      "path": "select/11_Wouldn't_It_Be_Nice_To_Be_Proud_(Album_Version)_Evan_and_Jaron.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Don'T Be Proud",
+      "artist": "Cappella",
+      "has_synced": false,
+      "path": "select/12_Don'T_Be_Proud_Cappella.txt"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Will Ye Be Proud",
+      "artist": "The Real McKenzies",
+      "has_synced": true,
+      "path": "select/13_Will_Ye_Be_Proud_The_Real_McKenzies.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Stand up Be Proud",
+      "artist": "Reece Mastin",
+      "has_synced": true,
+      "path": "select/14_Stand_up_Be_Proud_Reece_Mastin.lrc"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Your Father Must Be Proud of You",
+      "artist": "Mustasch",
+      "has_synced": true,
+      "path": "select/15_Your_Father_Must_Be_Proud_of_You_Mustasch.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Something To Be Proud Of",
+      "artist": "Montgomery Gentry",
+      "has_synced": true,
+      "path": "select/16_Something_To_Be_Proud_Of_Montgomery_Gentry.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "be proud",
+      "artist": "乙宗 梢 (CV.花宮初奈)",
+      "has_synced": false,
+      "path": "select/pl_01_be_proud_乙宗_梢_(CV.花宮初奈).txt"
+    }
+  ]
+}
